@@ -1,4 +1,4 @@
-# Messing with Vuex
+# Vuex use for task management app
 
 _Working on Vuex fluency._
 
